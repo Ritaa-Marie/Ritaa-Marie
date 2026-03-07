@@ -13,6 +13,7 @@
 - Atualmente estou focada em aplicar na prática o que estudo através de projetos.
 - Trabalho com dedicação para conquistar uma oportunidade de estágio na área de tecnologia.
 
+**Para facilitar a navegação pelos meus projetos, minhas organizações estão separadas por área. Sinta-se à vontade para explorá-las.**
 <br>
 
 ## 🔨 Ferramentas
